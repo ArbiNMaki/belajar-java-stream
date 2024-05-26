@@ -2,6 +2,7 @@ belajar\java\str\stream\StreamPipelineTest.class
 belajar\java\str\stream\StreamRetrievingOperationTest.class
 belajar\java\str\stream\StreamBuilderTest.class
 belajar\java\str\stream\CreateStreamTest.class
+belajar\java\str\stream\StreamAggregateOperationTest.class
 belajar\java\str\stream\StreamTransformationOperationTest.class
 belajar\java\str\stream\StreamOrderingOperationTest.class
 belajar\java\str\stream\LazyEvaluationTest.class
