@@ -8,6 +8,7 @@ belajar\java\str\stream\StreamOrderingOperationTest.class
 belajar\java\str\stream\StreamCheckOperationTest.class
 belajar\java\str\stream\StreamFilteringOperationTest.class
 belajar\java\str\stream\StreamOperationTest.class
+belajar\java\str\stream\StreamGroupingByTest.class
 belajar\java\str\stream\StreamCollectorTest.class
 belajar\java\str\stream\StreamPrimitiveTest.class
 belajar\java\str\stream\StreamTransformationOperationTest.class
